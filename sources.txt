@@ -1,0 +1,11 @@
+src/model/UsuarioFree.java
+src/model/UsuarioPremium.java
+src/model/PlaylistAutomatica.java
+src/model/Usuario.java
+src/model/Musica.java
+src/model/Playlist.java
+src/interfaces/Reproduzivel.java
+src/interfaces/Gerenciavel.java
+src/interfaces/Estatistico.java
+src/service/StreamingService.java
+src/main/StreamingMusica.java
